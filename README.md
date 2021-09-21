@@ -1,2 +1,2 @@
 # HotelsTunisia
-Miniprojet 2017/2018 ENIG: Mohamed Achraf Bouanani &amp; Elyes Boukattaya
+Android application that shows information about Hotels in Tunisia created for a mini project for University in 2018.
